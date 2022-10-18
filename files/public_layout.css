@@ -1,0 +1,213 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+  #w_common_text-1576041952527{  transition: all 0.6s;  background: #01498f !important; width: 150px !important;height:40px;}
+#w_common_text-1576041952527:hover{   background: #222!important;} 
+
+
+#c_portalResnav_main-15759862292049890 .navLi:nth-child(5) .navNameH1:hover{
+background:none;
+}
+
+
+
+/*公用样式表  头部，底部，分页，字体，字号*/
+/*media的判断可以根据需要自定义新增或修改，基础的基本上够用了*/
+
+
+/*小屏开始*/
+@media only screen and (max-width: 768px) {
+  
+  #c_portalResnav_main-15759862292049890 .navBox{padding-top: 0;}
+  #w_common_text-1576041952527{  transition: all 0.6s;  background: #01498f !important; width: 26px !important;}
+  #w_common_text-1576041952527 p span {
+    font-size: 14px !important; line-height: 30px;}
+  #c_portalResSearch_total-15760417503147820{    width: 35px;
+    max-width: 38px; height: 35px; top: 12px !important;} 
+  
+ #w_common_text-1583890777239 h5 span,
+ #w_common_text-1583892849938 h5 span{ font-size: 40px !important;}
+  
+
+ #w_common_text-1583889080523{ margin-right: 0 !important;}
+
+  #w_grid-1583892849921{ margin-left: 25px; margin-top: 25px;}
+  #w_common_text-1583892849951{ margin-top: 30px; margin-right: 30px;}
+  
+  #c_portalResEbizads_banner-15838943753092342{ min-height: 100px;}
+  
+  #w_common_text-1583897698320 h5 span{ font-size: 40px !important;}
+
+ 
+  #w_common_text-1583897698326{    margin-top: 25px; margin-right: 0;}
+  
+  #w_common_text-1583898232196 h5 span{ font-size: 40px !important;}
+  #w_common_text-1583898232199 p span{ font-size: 34px !important;}
+  #w_grid-1575946935068::after {  height: 0 !important;}
+  #c_portalResProduct_list-15839043174789558 .proLi { padding: 0;}
+  
+ 
+
+  #c_portalResNews_list-15839057085416865 .sunmry{  -webkit-line-clamp: 2;}
+  #c_portalResNews_list-15839057085416865 .container{ padding-bottom: 0px;}
+  
+  #w_grid-1583908066282,#w_common_text-1583907694825,
+  #content_box-1583908166714-0{display:none;}
+
+  #w_common_text-1583745203581{  margin-top: 10px;}
+
+  #c_portalResPublic_codeContainer-15839089158099104 {
+    width: 100%; max-width: 337px;}
+  
+  
+  
+  
+  /*关于*/
+  #content_box-1575972756477-0{width: 100% !important;display: block !important;}
+  #w_grid-1575989833337 { width: 100%;}
+  #w_grid-1575989833337{display: block !important;}
+  #w_grid-1584001676961{ display: none;}
+  
+  #w_common_text-1584003849473 h5 span,
+  #w_common_text-1583917193304 h5 span,
+  #w_common_text-1595237137885 h5 span,
+  #w_common_text-1595238665095 h5 span,
+  #w_common_text-1595239448313 h5 span,
+  #w_common_text-1599704542644 h5 span,
+  #w_common_text-1592530961512 h5 span{font-size: 24px !important;}
+  #w_common_text-1575972756777 p span,
+  #w_common_text-1583917193308 p span,
+  #w_common_text-1595237137890 p span,
+  #w_common_text-1595238665100 p span,
+  #w_common_text-1595239448318 p span,
+  #w_common_text-1599704542649 p span{ font-size: 34px !important;}
+  
+  #w_fline-1584005894984{ margin-top: 20px;}
+  
+  #w_common_text-1583917193311{ margin-top: 15px;}
+  #w_common_text-1583917193311{ margin-right: 0;}
+  #w_grid-1583917193294 {  width: 88% !important;}
+  
+  #w_fimg-1584004037631{ margin-top: 20px; margin-bottom: 20px;}
+
+  #w_grid-1575972756467 { width: 96%;}
+  #w_common_text-1583916538939{margin-top: 25px;}
+  
+  #w_common_text-1584004727445 h5 span{ font-size: 36px  !important;}
+  #w_common_text-1583916156235 p span { font-size: 34px !important;}
+  #w_fline-1584005515674,#w_common_text-1583916156238{ margin-top: 15px;}
+  #content_box-1583916156227-1{ padding: 0px 20px;}
+  #w_common_text-1583916156238{    margin-right: 0;  margin-bottom: 30px;}
+  
+  /* 产品 */
+  
+  #w_grid-1584017146032 { width: 100%;}
+  #w_grid-1584017146052{display:none;}
+
+  .c_portalResBreadcrumb_nav-01001 .p_breadcrumbList{   
+  border-top: 0  solid #105159; padding-top: 5px;}
+  #c_portalResProduct_detail-15840252972145251 .col-sm-8 {
+    width: 100% !important;}
+  #c_portalResProduct_detail-15840252972145251 .proRight h2{ font-size: 32px;    padding-top: 0;}
+  #c_portalResProduct_detail-15840252972145251 .txt {
+ font-size: 32px; padding-bottom: 0px;}
+  
+
+  
+  .desContentBox img{width: 100%;}
+  #c_portalResProduct_detail-15840252972145251 .proLeft {
+    width: 100% !important;}
+  #c_portalResProduct_detail-15840252972145251 .img {
+    width: 44%;}
+  
+  
+  /* 新闻 */
+  
+  #w_grid-1576722617238,#w_fimg-1584008245594{  min-height: auto;} 
+  #w_grid-1583995277879{    display: none;}
+  #w_grid-1576722617238,#w_grid-1583996706957 { width: 100%;}
+  #c_portalResNews_list-15839185306189583{  margin-top: 0;}
+  #c_portalResNews_list-15839185306189583 { width: 96%;}
+  #c_portalResNews_list-15839185306189583 .newNmaeLink {
+    font-size: 20px; line-height: 30px;}
+  #c_portalResNews_list-15839185306189583 .p_news{ padding-bottom: 0;}
+  
+  #w_grid-1584001556467{ display: none;}
+  .c_portalResNews_detail-01001 .p_TitleBoxA{max-width: 100%;}
+  .c_portalResNews_detail-01001 .p_headA{ line-height: 38px;}
+  
+    /* 服务 */
+  
+  #w_grid-1584196194222,#w_grid-1584203373214{width: 100% !important;display: block !important;}
+  #w_grid-1575989833337 { width: 100%;}
+#content_box-1584196194262-0{display: block !important; width: 100% !important;}
+  #w_grid-1584196194242,#w_grid-1584203373234{ display: none !important;}
+  
+  #w_common_text-1584196194372 h5 span,
+  #w_common_text-1584196194407 h5 span,
+  #w_common_text-1584014094765 h5 span{font-size: 40px !important;}
+  #w_common_text-1584196194377 p span,
+  #w_common_text-1584196194412 p span,
+  #w_common_text-1584203373339 p span,
+  #w_common_text-1584014094770 p span,
+  #w_common_text-1584008763254 p span{ font-size: 34px !important;}
+  #w_grid-1584196194252 { width: 96%;}
+  #w_grid-1584197608007{display:none;}
+  #w_fline-1584196194362{min-height: 0;}
+  #w_common_text-1584196194417{ margin-right: 0;}
+  #content_box-1584196194342-1{    
+  padding: 0px 20px;  padding-bottom: 30px;}
+  
+  
+  #w_grid-1584014094685 {  width: 100%; display: block !important; }
+  #w_grid-1584014094705,#w_grid-1584008763119{ display: none;}
+  #w_common_text-1584014094775 { margin-top: 20px;} 
+  #content_box-1584008763139-0{width:100%;}
+  
+  #w_grid-1584008763129{ width: 95%;}
+  #content_box-1584008763139-0{width:100% !important;}
+  
+  #w_grid-1584008763099{  width: 100%; display: block !important; }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
+
+ /*大屏开始*/ 
+@media only screen and (min-width: 769px){
+
+  
+  
+  
+  
+  
+  
+  
+  
+}
+ /*大屏结束*/ 
+
+
+/*中屏开始*/
+@media only screen and (max-width: 1024px) and (min-width: 769px){
+
+
+}
+/*中屏结束*/
+
+
+ /*小小屏幕 开始*/ 
+@media only screen and (max-width: 414px){
+ 
+  
+}
+ /*小小屏幕 结束*/
+
